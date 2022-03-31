@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultithreadingDemo</string>
+    <string name="title_activity_main_thread">MainActivityThread</string>
+    <string name="go_to_coroutines">Go to coroutines</string>
+    <string name="start">Start</string>
+    <string name="time">Time</string>
+    <string name="go_to_threads">Go to threads</string>
+    <string name="enter_seconds_count">enter seconds count</string>
+</resources>
